@@ -121,7 +121,7 @@ console.log(evenNumbers);
 const users = [
     { name: "Ravi", active: true },
     { name: "Aman", active: false },
-    { name: "Priya", active: true }
+    { name: "Amit", active: true }
 ];
 
 const activeUsers = users.filter(user => user.active);
@@ -134,7 +134,7 @@ console.log(activeUsers);
 ```javascript
 [
   { name: "Ravi", active: true },
-  { name: "Priya", active: true }
+  { name: "Amit", active: true }
 ]
 ```
 
