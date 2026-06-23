@@ -1,7 +1,5 @@
 # Redis for Absolute Beginners 🚀
 
-> If you know JavaScript objects, then Redis is easy.
-
 Think of Redis as a **super-fast in-memory database** that stores data as **key → value** pairs.
 
 ```js
